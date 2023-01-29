@@ -1,0 +1,314 @@
+@media (max-width: 576px) {
+    .banner-text h2 {
+        font-size: 20px !important;
+    }
+
+    .banner-text h1 {
+        font-size: 53px !important;
+    }
+
+    #logo {
+        padding: 27px 0 33px 0 !important;
+        background: #FAFAFA;
+    }
+
+    .CONTENT_MANU .nav-link {
+        margin-left: 7px !important;
+        padding: 7PX 19px !important;
+        -webkit-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+        -moz-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+        -ms-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+        -o-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+    }
+    .ex_head h4 {
+        font-size: 25px !important;
+    }
+    .table_text h3 {
+        font-size: 25px !important;
+        text-align: center;
+    }
+    .waiding_part  {
+        margin-left: 83px;
+    }
+    .table_btn {
+        padding-top: 40px;
+        text-align: center;
+    }
+    .trasted_head h3 {
+        font-size: 25px !important;
+    }
+    .trasted_head p {
+        font-size: 14px !important;
+    }
+    .table_text p {
+        font-size: 14px !important;
+    }
+    .ex-text p {
+        font-size: 14px !important;
+    }
+    .post_head h4 {
+        font-size: 25px !important;
+    }
+    .post_head p {
+      font-size: 14px;
+    }
+    .ftr_frm input {
+        width: 341px !important;
+        margin-top: 20px;
+        padding: 11px 14px !important;
+    }
+    .foter_logo {
+        text-align: center;
+    }
+    .ex_img {
+        text-align: center;
+    }
+    .ex_img img {
+        min-height: 226px !important;
+        max-height: 226px !important;
+        height: 100%;
+        width: 325px !important;
+    }
+    .table_img  {
+        text-align: center;
+    }
+    .table_img img {
+        min-height: 287px !important;
+        max-height: 287px !important;
+        width: 325px !important;
+    }
+    .post_img img {
+        min-height: 200px !important;
+        max-height: 200px !important;
+        width: 325px !important;
+
+    }
+    .let_img img {
+        min-height: 80px !important;
+        max-height: 80px !important;
+        width: 325px !important;
+    }
+}
+
+
+@media (max-width: 768px) {
+
+    .manu_icon {
+        display: none;
+    }
+
+    .nav_main {
+        background-color: rgba(255, 0, 0, 0.686);
+        padding: 0px !important;
+    }
+
+    .nav_manu {
+        text-align: center;
+    }
+
+    .nav_icon {
+        width: 60px;
+    }
+
+    #banner {
+        padding: 120px 0 !important;
+    }
+
+    .banner-text p {
+        padding: 9px 0 49px 0 !important;
+    }
+
+    .CONTENT_MANU {
+        padding-bottom: 0 !important;
+    }
+
+    .CONTENT_MANU ul li {
+        margin-bottom: 15px;
+    }
+
+    .ex_btn {
+        padding-bottom: 53px !important;
+    }
+
+    #table {
+        padding-top: 2px !important;
+    }
+
+    .table_img {
+        padding-top: 30px;
+    }
+
+    #trated {
+        padding: 50px 0 30px !important;
+    }
+
+    .post_main {
+        text-align: center;
+    }
+
+    .post_text h5 i {
+        display: none;
+    }
+
+    .post_img {
+        padding-top: 20px;
+    }
+
+    .post_btn {
+        padding-top: 30px !important;
+    }
+
+    #post {
+        padding-bottom: 1px !important;
+    }
+
+    .post_head p {
+        padding: 5px 0 17px 0 !important;
+    }
+
+    #let {
+        padding: 0 0 24px 0 !important;
+    }
+
+
+    .foter_btn {
+        margin-top: 20px;
+    }
+
+    .foter_iteam h2 {
+        padding-top: 20px;
+    }
+
+    footer {
+        padding: 23px 0 10px 0 !important;
+
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .ftr_frm input {
+        width: 340px !important;
+        margin-top: 20px;
+        padding: 11px 14px !important;
+    }
+    .ex_img img {
+        min-height: 300px !important;
+        max-height: 300px !important;
+    
+    }
+    .table_img img {
+        min-height: 451px !important;
+        max-height: 450px !important;
+        height: 100%;
+    }
+    .post_img img {
+        min-height: 280px !important;
+        max-height: 280px !important;
+
+    }
+    .let_img img {
+        min-height: 128px !important;
+        max-height: 128 !important;
+    }
+}
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .manu_icon {
+        display: none;
+    }
+
+    .nav_main {
+        background-color: red;
+        padding: 0px !important;
+    }
+
+    .nav_manu {
+        text-align: center;
+    }
+
+    .nav_icon {
+        width: 60px;
+    }
+
+    #banner {
+        padding: 170px 0 !important;
+    }
+
+    .CONTENT_MANU .nav-link {
+        padding: 7PX 26px !important;
+
+    }
+
+    #table {
+        padding-top: 1px !important;
+    }
+
+    .table_img {
+        margin-top: -300px;
+        margin-left: 348px;
+    }
+
+    .waiding_part {
+        margin-top: 20px;
+    }
+
+    .post_text h5 i {
+        display: none;
+    }
+
+    .post_text h5 {
+        font-size: 20px !important;
+    }
+
+    .post_text p {
+        font-size: 14px !important;
+    }
+
+    .post_btn {
+        padding-top: 37px !important;
+    }
+
+    .ex_btn {
+        padding-bottom: 30px !important;
+    }
+
+    #let {
+        padding: 0 0 65px 0 !important;
+    }
+
+    .ftr_frm input {
+
+        width: 200px !important;
+    }
+
+    .foter_btn {
+        padding-left: 8px !important;
+    }
+
+    .foter_iteam h2 {
+        padding-top: 30px;
+    }
+    .ex_img img {
+        min-height: 255px !important;
+        max-height: 255px !important;
+    }
+    .table_img img {
+        min-height: 300px !important; 
+        max-height: 300px !important;
+    }
+    .post_img img {
+        min-height: 157px !important;
+        max-height: 157px !important;
+    }
+    .let_img img {
+        min-height: 170px !important;
+        max-height: 170px !important;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {}
